@@ -13,3 +13,6 @@ git push origin main
 xuezhang911
 #Password for 'https://xuezhang911@github.com'
 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
+#To rewrite the root folder or delete it clearly
+rm -rf RNAPII_collision_at_Rosa_group #"file name"
+rm -rf .git 
