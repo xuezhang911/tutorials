@@ -14,4 +14,5 @@ git status
 git add test.sh
 git commit -a -m "initial commit"
 git push origin main
+#optionally git git add . && git commit -m "initial commit" git push orgin mian 
 # update the github website and you will see the test.sh in tutorials
